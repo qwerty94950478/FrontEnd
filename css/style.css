@@ -31,7 +31,7 @@ ul {
 
 .header{
     min-height: 100vh;
-    background: dodgerblue;
+    background: linear-gradient(black , red);
     display: flex;
     flex-direction: column;
 }
